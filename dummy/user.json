@@ -1,0 +1,12 @@
+[
+    {"userId": 22231003, "name": "green panda", "hobby": "climbing"},
+    {"userId": 22252007, "name": "son goku", "hobby": "sport"},
+    {"userId": 22241009, "name": "inuyasha", "hobby": "running"},
+    {"userId": 22261010, "name": "michael J", "hobby": "singing"},
+    {"userId": 22222011, "name": "suprayitno", "hobby": "painting"},
+    {"userId": 22232012, "name": "kuncoro", "hobby": "singing"},
+    {"userId": 22252003, "name": "budi", "hobby": "joking"},
+    {"userId": 22241004, "name": "sugeng", "hobby": "coding"},
+    {"userId": 22232006, "name": "hamilton", "hobby": "tennis"},
+    {"userId": 22261003, "name": "lele goreng", "hobby": "cooking"}
+]
